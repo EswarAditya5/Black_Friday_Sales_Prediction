@@ -2,6 +2,7 @@
 
 ### Data:
 The dataset used in this analysis contains Black Friday Sales.
+Dataset from Analytics vidya.
 
 ## Problem Statment
 A retail company “ABC Private Limited” wants to understand the customer purchase behavior (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high-volume products from last month.
